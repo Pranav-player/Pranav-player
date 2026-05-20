@@ -50,18 +50,6 @@ Interactive geometry visualization tool designed to simplify understanding of ma
 
 ---
 
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Pranav-player&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranav-player&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="left">
