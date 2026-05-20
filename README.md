@@ -30,8 +30,7 @@
 - **Translation** — SwiftUI translation application focused on clean UI, quick language switching, and smooth real-time interaction
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pranav-player&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-player&layout=compact&theme=tokyonight&hide_border=true)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pranav-player&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranav-player&layout=compact&theme=tokyonight&hide_border=true)
 ## Connect With Me
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranav-player)
