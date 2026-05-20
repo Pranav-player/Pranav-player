@@ -26,12 +26,12 @@
 - Building responsive web interfaces with React and TypeScript
 
 ## Featured Projects
-- **LyfeLens** — AI + AR emergency response assistant
-- **Translation** — SwiftUI translation application
+- **LyfeLens** — AI + AR emergency response assistant that helps users quickly identify situations and access guided support flows in critical moments
+- **Translation** — SwiftUI translation application focused on clean UI, quick language switching, and smooth real-time interaction
 
 ## GitHub Stats
-![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pranav-player&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-player&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub contribution statistics showing commit activity and repository metrics](https://github-readme-stats.vercel.app/api?username=Pranav-player&show_icons=true&theme=tokyonight&hide_border=true)
+![Chart displaying most used programming languages in repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav-player&layout=compact&theme=tokyonight&hide_border=true)
 
 ## Connect With Me
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranav-player)
