@@ -36,17 +36,14 @@
 
 ## 🌟 Featured Projects
 
-### 🩺 LyfeLens
+###  LyfeLens
 AI + AR emergency response assistant that helps users quickly identify situations and access guided support flows in critical moments.
 
-### 🌍 Translation
+###  Translation
 SwiftUI translation application focused on clean UI, quick language switching, and smooth real-time interaction.
 
-### 🎭 FaceFit
+###  FaceFit
 AR-powered iOS application that applies real-time facial filters and interactive effects using facial landmark detection.
-
-### 📐 Geometry Visualizer
-Interactive geometry visualization tool designed to simplify understanding of mathematical and geometric concepts.
 
 ---
 
